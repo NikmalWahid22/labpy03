@@ -92,4 +92,10 @@ Apabila pengguna memilih angka 2 maka program akan menampilkan pesan. <p>
 ![Gambar 22](tugas/ss22.png)
 
 ### STEP 6
-Program Berakhir <p>
+Program akan terus berjalan dan menampilkan saldo serta pilihan menu hingga pengguna memilih opsi "Keluar" (pilihan '2'), yang mengakhiri loop dan program.<p>
+
+### KODE PEMROGRAMAN
+![Gambar 23](tugas/ss23.png)
+
+### HASIL 
+![Gambar 24](tugas/ss24.png)
