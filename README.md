@@ -24,3 +24,6 @@ rand_num = random.random() menghasilkan bilangan acak antara 0 dan 1 menggunakan
 ### STEP 6
 Setelah loop while selesai. Maka program akan mencetak selesai. <p>
 [Gambar 5](ss/ss5.png)
+
+### KODE PROGRAM 
+[Gambar 6](ss/ss6.png)
