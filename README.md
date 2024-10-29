@@ -27,3 +27,6 @@ Setelah loop while selesai. Maka program akan mencetak selesai. <p>
 
 ### KODE PROGRAM 
 ![Gambar 6](tugas/ss6.png)
+
+### HASIL KODE PROGRAM 
+![Gambar 7](tugas/ss72.png)
