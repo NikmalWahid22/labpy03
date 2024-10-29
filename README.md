@@ -61,3 +61,35 @@ Menampilkan laba. <p>
 
 ### HASIL 
 ![Gambar 15](tugas/ss15.png)
+
+## LATIHAN 3
+### STEP 1
+Program di mulai dengan variabel saldo sebesar 1000000 sebagai saldo awal pengguna ATM. <p>
+![Gambar 16](tugas/ss16.png)
+
+## STEP 2
+Fungsi tampilkan_menu dibuat untuk menampilkan saldo saat ini dan terdapat dua pilihan menu. Fungsi ini akan di panggil dalam loop utama untuk memperbarui tampilan dan menu saldo setiap kali diperlukan. <p>
+![Gambar 17](tugas/ss17.png)
+
+### STEP 3
+Program akan memasuki loop utama . Di awal setiap iterasi, fungsi tampilkan menu akan muncul untuk menampilkan saldo dan beberapa opsi. <p>
+![Gambar 18](tugas/ss20.png)
+
+### STEP 4
+Pengguna diminta memasukkan pilihan menu. <p>
+![Gambar 19](tugas/ss21.png)
+
+### STEP 5.1
+Pilihan 1 = Apabila pengguna memilih '1', program akan meminta pengguna untuk memasukkan jumlah uang yang ingin ditarik, lalu mengonversi input ke dalam tipe integer. <p>
+![Gambar 20](tugas/ss18.png)
+
+### STEP 5.2
+Jika Jumlah > saldo : Program akan menampilan pesan SALDO TIDAK CUKUP. Jika Jumlah <= 0 maka jumlah penarikan tidak valid. Jika saldo cukup penarikan berhasil. <p>
+![Gambar 21](tugas/ss19.png)
+
+### STEP 5.3 
+Apabila pengguna memilih angka 2 maka program akan menampilkan pesan. <p>
+![Gambar 22](tugas/ss22.png)
+
+### STEP 6
+Program Berakhir <p>
