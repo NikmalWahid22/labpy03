@@ -55,3 +55,9 @@ total_laba += laba menambahkan laba bulanan yang telah dihitung ke dalam total_l
 ### STEP 6
 Menampilkan laba. <p>
 ![Gambar 13](tugas/ss13.png)
+
+### KODE PEMROGRAMAN 
+![Gambar 14](tugas/ss14.png)
+
+### HASIL 
+![Gambar 15](tugas/ss15.png)
